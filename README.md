@@ -21,7 +21,7 @@ This is a **Portfolio Website** built using **HTML**, **CSS**, and **JavaScript*
 ### Steps to Setup
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/portfolio-website.git
+    git clone https://github.com/Gokulbharath/portfolio-website.git
     ```
 
 2. Navigate to the project directory:
